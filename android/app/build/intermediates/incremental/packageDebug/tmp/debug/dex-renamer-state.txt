@@ -1,0 +1,4 @@
+#Tue Jan 05 07:46:40 IST 2021
+base.0=/Users/auriga/Desktop/Assignment/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
